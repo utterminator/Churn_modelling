@@ -7,7 +7,9 @@ Making a predictive model that calculates churn of a customer, the likelihood th
 
 # Steps Involved
 Importing dataset
+
 check for null values
+
 encoding categorical variables
 splitting data into train set and test set
 Feature scaling
